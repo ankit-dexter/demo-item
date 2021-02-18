@@ -1,0 +1,7 @@
+.buckets {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  align-content: space-between;
+  min-width: 100%;
+}
